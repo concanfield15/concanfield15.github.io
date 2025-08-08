@@ -12,9 +12,8 @@
 <b> <i> "Taking the next steps in the medical device technologies." </u> </i> 
 
   
-<h2> <font face="Times New Roman" style="color:blue"> <u> Customer 
-
-Testomonials </font> </u> </h2>
+<h2> <font face="Times New Roman" style="color:blue"> <u> Customer Testomonials </font> </u> </h2>
+  
 <b1> <font face="Helvetica" style="color:darkslategray" size="4"> "The device was worth the time! They gave me the medical attention." ~ Sabrina C. </font> </b1>
 <br>
 <br>
@@ -30,9 +29,7 @@ Testomonials </font> </u> </h2>
 <b5> "I got to speak to the supervisor while he was there. He was welcoming and willing to help when my device and service had not arrived yet." ~ Taylor S. </b5>
 <br>
 <br>
-<h3> <font face="Times New Roman" style="color:blue"> <u> Customer 
-
-Review Scores <br></font> </u> </h3>
+<h3> <font face="Times New Roman" style="color:blue"> <u> Customer Review Scores <br> </font> </u> </h3>
 <b6> <font face="Helvetica" style="color:darkslategray" size="4">
 Overall Service:    4.4/5 <br>
 -  Devices:         4.2/5 <br>
@@ -49,7 +46,7 @@ If we are able to verify the person who wrote the review, we can trace it back t
 Scores are based on the average of all customer ratings.
 </b7>
 
-<ahref = "W:\www\"</a> <br> <br>
+<ahref = "W:\www\"></a> <br> <br>
 
 
 Contact: <a href="mailto:ccanfie@purdue.edu">ccanfie@purdue.edu</a> for more details.
