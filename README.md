@@ -49,7 +49,7 @@ Scores are based on the average of all customer ratings.
 <ahref = "W:\www\"></a> <br> <br>
 
 
-Contact: <a href="mailto:ccanfie@purdue.edu">ccanfie@purdue.edu</a> for more details.
+Contact: <a>href="mailto:ccanfie@purdue.edu">ccanfie@purdue.edu</a> for more details.
 <br>
 <br>
 <script>document.write(document.lastModified);</script>
