@@ -41,7 +41,7 @@ Overall Service:    4.4/5 <br>
 -  Hospitality:     4.6/5 <br>
 <br>
 </font>
-<a href="https://www.forbes.com/councils/forbesbusinesscouncil/2024/02/08/online-review-trends-affecting-todays-consumers/" target="_blank" <font face="Trebuchet MS" size="2">
+<a> href="https://www.forbes.com/councils/forbesbusinesscouncil/2024/02/08/online-review-trends-affecting-todays-consumers/" target="_blank" <font face="Trebuchet MS" size="2">
 Click<u><b> HERE </b></u> to see why customer testomonials are so beneficial</font></a>  
 <br>
 <br>
@@ -57,7 +57,7 @@ Contact: <a href="mailto:ccanfie@purdue.edu">ccanfie@purdue.edu</a> for more det
 <br>
 <br>
 <script>document.write(document.lastModified);</script>
-</body>
+<body>
 
 
 
