@@ -6,7 +6,7 @@
 </head>
 <body bgcolor="F3DBC3">
 
-<img src = ""C:\Users\conca\OneDrive\Desktop\MGMT 382\istockphoto-1972416418-612x612.jpg"" width=0 height=0>
+<img src = ""istockphoto-1972416418-612x612.jpg"" width=0 height=0>
 <br>
 <br>
 <b> <i> "Taking the next steps in the medical device technologies." </u> </i> 
