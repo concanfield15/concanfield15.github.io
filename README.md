@@ -12,9 +12,9 @@
 <b> <i> "Taking the next steps in the medical device technologies." </u> </i> 
 
 
-<h2>
+
   
-<font> face="Times New Roman" style="color:blue"> <u> Customer 
+<h2> <font face="Times New Roman" style="color:blue"> <u> Customer 
 
 Testomonials </font> </u> </h2>
 <b1> <font face="Helvetica" style="color:darkslategray" size="4"> "The device was worth the time! They gave me the medical attention." ~ Sabrina C. </font> </b1>
